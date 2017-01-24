@@ -9,7 +9,7 @@ For registered release you have to pay a license fee, by following instructions 
 You may:  
 - use the Software on any single computer;  
 - use the Software on a second computer so long as the primary user of each copy is the same person and more than one copy is not simultaneously;  
-- copy the Software for archival purposes, provided any copy contains all of the original Software's proprietary notices.  
+- copy the Software for archival purposdes, provided any copy contains all of the original Software's proprietary notices.  
  
 You may not:  
 - permit other individuals to use the Software except under the terms listed above;  
