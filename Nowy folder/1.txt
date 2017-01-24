@@ -29,7 +29,7 @@ float minimum(float a[],int n)
         for(i=1;i<n;i++)
         if(a[i]<min)
                 min=a[i];
-  return min;
+  return min;h
   }
 float maksimum(float a[],int n)
 {
