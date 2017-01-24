@@ -26,7 +26,7 @@ void wyznaczanie(int liczba)
                                         printf(" trzy"); break;
                                 case 4:
                                         printf(" cztery"); break;
-                                case 5:
+                                case 5:f
                                         printf(" piec"); break;
                                 case 6:
                                         printf(" szesc"); break;
