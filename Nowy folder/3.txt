@@ -25,7 +25,7 @@ main()
 void sortowanie(int x[],int n)
 {
         int i,k;
-        int pom,info;
+        int pom,insfo;
         do
         {
                 info=0;
